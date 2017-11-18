@@ -1,0 +1,27 @@
+summary: summary
+description: description
+method: method
+operationId: operationId
+consumes: consumes
+produces: produces
+responses: responses
+response_code: return code
+param_name: name
+type: type
+in: in
+format: format
+required: required
+is_true: "true"
+is_false: "false"
+minimum: minimum
+maximum: maximum
+min_length: mininum length 
+max_length: maximum length 
+version: version
+tags: tags
+items: items
+enum: enum
+default: default
+collectionFormat: collection format
+schema: schema
+xml: XML

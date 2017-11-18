@@ -1,0 +1,27 @@
+summary: Сводка
+description: Описание
+method: Метод
+operationId: Идентификатор операции
+consumes: Принимает
+produces: Возвращает
+responses: Возвращает
+response_code: Код
+param_name: Название параметра
+type: Тип
+in: Входит в 
+format: Формат
+required: Обязательный
+is_true: Да
+is_false: Нет
+minimum: Минимальное значение
+maximum: Максимальное значение
+min_length: Минимальная длина
+max_length: Максимальная длина
+version: Версия
+tags: Метки
+items: of
+enum: значения
+default: значение по умолчанию
+collectionFormat: формат массива
+schema: тип объекта
+xml: XML

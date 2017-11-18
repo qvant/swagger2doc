@@ -97,3 +97,8 @@ ENV/
 
 # mypy
 .mypy_cache/
+demo/out.docx
+.idea/misc.xml
+.idea/modules.xml
+.idea/swagger2doc.iml
+.idea/workspace.xml
